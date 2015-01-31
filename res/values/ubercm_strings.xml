@@ -73,6 +73,7 @@
     <string name="qs_main_tiles_summary_off2">Three or four tiles on each row</string>
     <string name="qs_sync_tile">Sync</string>
     <string name="qs_ambient_display_tile">Ambient display</string>
+    <string name="qs_tile_reboot">Reboot</string>
 
     <!-- Privacy guard notification -->
     <string name="privacy_guard_notification_title">Notification</string>
