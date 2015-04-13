@@ -30,7 +30,7 @@ import android.util.Log;
 
 import com.android.settings.R;
 
-import com.android.internal.util.cyanogenmod.AppHelper;
+import com.android.internal.util.cm.AppHelper;
 
 import java.util.ArrayList;
 

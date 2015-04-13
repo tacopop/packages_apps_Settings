@@ -53,12 +53,12 @@ import android.widget.TextView;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.android.internal.util.cyanogenmod.ActionConfig;
-import com.android.internal.util.cyanogenmod.ActionConstants;
-import com.android.internal.util.cyanogenmod.ActionHelper;
-import com.android.internal.util.cyanogenmod.ImageHelper;
-import com.android.internal.util.cyanogenmod.DeviceUtils;
-import com.android.internal.util.cyanogenmod.DeviceUtils.FilteredDeviceFeaturesArray;
+import com.android.internal.util.cm.ActionConfig;
+import com.android.internal.util.cm.ActionConstants;
+import com.android.internal.util.cm.ActionHelper;
+import com.android.internal.util.cm.ImageHelper;
+import com.android.internal.util.cm.DeviceUtils;
+import com.android.internal.util.cm.DeviceUtils.FilteredDeviceFeaturesArray;
 
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.R;
