@@ -19,6 +19,12 @@
     <string name="quick_settings_vibrate_title">Vibrate on touch</string>
     <string name="quick_settings_vibrate_summary">Vibrate when touching tiles</string>
 
+    <!-- Open Delta -->
+    <string name="system_update_settings_list_item_title">System updates</string>
+    <string name="system_update_settings_list_item_summary" />
+    <string name="system_update_settings_list_item_title" msgid="3342887311059985961">"System updates"</string>
+    <string name="system_update_settings_list_item_summary" msgid="3853057315907710747"></string>
+
     <!-- Heads Up -->
     <string name="category_heads_up">Heads up notifications</string>
     <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
